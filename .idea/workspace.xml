@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="389d7c18-85c3-4b2e-a32d-d28ad875a12a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/other.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/testrunner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/triad.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/799e0982f8034e2580e09eef7f702a2029c05f26/app.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/a1df7994214ebd4cf61f69e0a6b44484bbc7d753/app.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/d937ca0b2e93e20dd867067fb35e117f7b26f3f0/app.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/e7ab285b2ff3f1ba12398c85aeb4a5bd81778df1/app.sassc" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/backbone/.bower.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/backbone/.gitignore" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/backbone/.npmignore" afterPath="" />
@@ -12243,6 +12229,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/run-sequence/node_modules/chalk/package.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/run-sequence/node_modules/chalk/readme.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/run-sequence/package.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="triad.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -12251,7 +12238,7 @@
     <file path="/app.coffee" changelist="389d7c18-85c3-4b2e-a32d-d28ad875a12a" time="1409558783108" ignored="false" />
     <file path="/index.html" changelist="389d7c18-85c3-4b2e-a32d-d28ad875a12a" time="1409560364636" ignored="false" />
     <file path="/triangle.coffee" changelist="389d7c18-85c3-4b2e-a32d-d28ad875a12a" time="1409591793714" ignored="false" />
-    <file path="/Dummy.txt" changelist="389d7c18-85c3-4b2e-a32d-d28ad875a12a" time="1409631913831" ignored="false" />
+    <file path="/Dummy.txt" changelist="389d7c18-85c3-4b2e-a32d-d28ad875a12a" time="1409632601217" ignored="false" />
     <file path="/triad.coffee" changelist="389d7c18-85c3-4b2e-a32d-d28ad875a12a" time="1409557762541" ignored="false" />
     <file path="/app.sass" changelist="389d7c18-85c3-4b2e-a32d-d28ad875a12a" time="1409557210283" ignored="false" />
     <file path="/constants.coffee" changelist="389d7c18-85c3-4b2e-a32d-d28ad875a12a" time="1409560226848" ignored="false" />
@@ -12319,7 +12306,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="56" selection-end="56" vertical-scroll-proportion="0.10968921">
+            <state line="4" column="0" selection-start="56" selection-end="56" vertical-scroll-proportion="0.072376356">
               <folding />
             </state>
           </provider>
@@ -12514,19 +12501,23 @@
       <created>1409631832017</created>
       <updated>1409631832017</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="remove junk">
+      <created>1409632006333</created>
+      <updated>1409632006333</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="975" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32905483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.249694" sideWeight="0.67094517" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.249694" sideWeight="0.67094517" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20624235" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -12657,7 +12648,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="56" selection-end="56" vertical-scroll-proportion="0.10968921">
+        <state line="4" column="0" selection-start="56" selection-end="56" vertical-scroll-proportion="0.072376356">
           <folding />
         </state>
       </provider>
