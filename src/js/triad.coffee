@@ -1,4 +1,5 @@
 constants = require('./constants.coffee')
+chance = new (require('chance'))
 
 class Triad
 
@@ -32,7 +33,7 @@ class Triad
         dy = Math.round(Math.random() * 2) - 1
 
       if @shapeExistsAtPosition(x + dx, y + dy)
-        dx += 1
+        dx += if chance.bool() then 1 else -1
 
       x += dx
       y += dy
