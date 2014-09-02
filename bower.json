@@ -1,0 +1,25 @@
+{
+  "name": "triad",
+  "version": "1.0.0",
+  "main": "path/to/main.css",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "backbone": "1.1.2",
+    "d3": "~3.4.11",
+    "jasmine": "2.0.0"
+  },
+  "authors": [
+    "Lincoln <bryant.lincoln@gmail.com>"
+  ],
+  "description": "triangles",
+  "license": "MIT"
+}
